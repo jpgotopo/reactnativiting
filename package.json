@@ -4,13 +4,13 @@
   "description": "Workshop para crear npm modulos",
   "main": "index.js",
   "scripts": {
-    "test": "ver"
+    "test": "node test.js"
   },
   "author": "JP",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "reactnativing"
+    "url": "https://github.com/jpgotopo/reactnativiting.git"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
